@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8;
 
-import {MultiplyWithTwo} from "../hello.sol";
+import {MultiplyWithTwo} from "../multiplyTwo.sol";
 import {console} from "forge-std/console.sol";
 import {IncoTest} from "@inco/lightning/src/test/IncoTest.sol";
 import {GWEI} from "@inco/shared/src/TypeUtils.sol"; // 1 GWEI = 1e9
